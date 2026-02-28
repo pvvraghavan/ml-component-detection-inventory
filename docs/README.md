@@ -38,21 +38,21 @@ The application follows a structured flow from user authentication through ML in
 ### Login Window
 > Secure user authentication with Sign Up support for new users.
 
-![Login Window](docs/screenshots/Login_Window.jpeg)
+![Login Window](docs/Login_Window.jpeg)
 
 ---
 
 ### View Project Window
 > Searchable list of all projects with Windows/Desktop view toggle.
 
-![View Project Window](docs/screenshots/View_Project_Window.jpeg)
+![View Project Window](docs/View_Project_Window.jpeg)
 
 ---
 
 ### View Inventory Dashboard
 > Master inventory table aggregating component data across all projects and BOMs. Supports direct in-table editing, CSV export, and live DB sync.
 
-![View Inventory Window](docs/screenshots/View_Inventory_Window.jpeg)
+![View Inventory Window](docs/View_Inventory_Window.jpeg)
 
 ---
 
