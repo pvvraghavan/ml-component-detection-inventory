@@ -19,9 +19,9 @@ This project automates the interpretation of **electrical design diagrams** usin
 
 Built as a full-stack desktop application using **PyQt6**, the system integrates a fine-tuned **YOLOv8s** detection model with a **PostgreSQL** backend, giving engineers a seamless workflow from image input to exportable BOM output.
 
-The system was developed under a sponsored engagement with **Kristl Seibt Engineers Pvt. Ltd.**, a firm specialising in electrical design automation.
+The system was developed under a sponsored engagement with **Kristl Seibt India Pvt. Ltd.**, a firm specialising in electrical design automation.
 
-> ⚠️ **Note:** Source code and trained model weights are proprietary to Kristl Seibt Engineers Pvt. Ltd. and cannot be made publicly available. This repository documents the system architecture, design decisions, and outcomes.
+> ⚠️ **Note:** Source code and trained model weights are proprietary to Kristl Seibt India Pvt. Ltd. and cannot be made publicly available. This repository documents the system architecture, design decisions, and outcomes.
 
 ---
 
@@ -138,7 +138,7 @@ ml-component-detection/
 
 This work contributed to a research paper accepted at an international conference:
 
-> **"[Paper Title]"**  
+> **"A Computer Vision Approach for Electrical Design Component Detection adn Management using Deep Learning"**  
 > *Vaishnaw G. Kale, Vaishnav V. Prasad*  
 > Second International Conference on Artificial Intelligence, Computation, Communication, and Network Security **(AICCoNS 2026)**  
 > University of Wollongong in Dubai — Hybrid, April 2026
@@ -156,8 +156,8 @@ MSc Computing Science — University of Glasgow
 
 ## 🏢 Industry Sponsor
 
-**Kristl Seibt Engineers Pvt. Ltd.**  
-Pune, India — Specialising in Electrical Design Automation
+**Kristl Seibt India Pvt. Ltd.**  
+Pune, India 
 
 ---
 
